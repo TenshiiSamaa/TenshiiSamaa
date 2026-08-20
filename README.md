@@ -9,7 +9,7 @@
 
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/dffhaa_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/TenshiiSamaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/dffhaa_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  <h3 align="left">Hey there! I’m a student currently diving into the world of programming. It started as a random interest, but now I’m totally hooked. I’m learning HTML, CSS, JavaScript, and Python—hoping to build cool websites and useful apps someday.
 
